@@ -19,7 +19,7 @@ Windows - Embedded Hidden Data to Datastream
 - [Windows Embedded Hidden Data to Datastream](#windows-embedded-hidden-data-to-datastream)
     - [Table of Contents](#table-of-contents)
     - [Example 1](#example-1)
-    - [Example 2 - DLL](#example-2-dll)
+    - [Example 2 - DLL](#example-2---dll)
 
 <!-- /TOC -->
 
